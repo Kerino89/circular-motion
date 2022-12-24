@@ -1,0 +1,7 @@
+{
+  "vscode-edge-devtools.pathMapping": {
+    "/": "${workspaceFolder}\\dist"
+  },
+  "vscode-edge-devtools.mirrorEdits": false,
+  "vscode-edge-devtools.webhint": false
+}
